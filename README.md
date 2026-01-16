@@ -7,7 +7,6 @@
 An interactive Power BI report analyzing sales performance across time, products, customers, and regions. It provides insights into **Revenue**, **Profit**, **Average Order Value (AOV)**, **YoY/MoM trends**, and **Top performers**.
 
 ## Preview
-_Add screenshots here:_
 <img width="1136" height="643" alt="Screenshot 2025-08-13 224858" src="https://github.com/user-attachments/assets/60334678-b275-42c7-9c73-aff685d1b032" />
 
 ## Open the Report
